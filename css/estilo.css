@@ -1,12 +1,16 @@
+.caja{
+  border:  1px solid #000;
+  margin: 50px 50px 50px 50px;
 
+}
 .header{
-    width: 50%;
+    width: 30%;
     align-items: center;
-
+    padding: 20px 20px;
 }
 h2{
     text-align: right;
-    padding: 10px 10px;
+    padding: 20px 20px;
 }
 img{
     height: auto;
@@ -21,7 +25,7 @@ img{
    margin: 5px 10px 5px 0px;
    color: black;
    padding: 5px 5px;
-   vertical-align: text-top; 
+   clear: both;
 }
 a:hover{
     background-color: gray;
@@ -30,8 +34,9 @@ a:hover{
     margin: 5px 10px 5px 0px;
     padding: 5px 5px;
     box-shadow: 3px 0px 0px black;
-    vertical-align: text-top; 
+    clear: both;
 }
+
 .der{
   width: 50%;
   float: left;
