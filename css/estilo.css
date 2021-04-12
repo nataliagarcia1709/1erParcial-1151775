@@ -1,0 +1,45 @@
+
+.header{
+    width: 50%;
+    align-items: center;
+
+}
+h2{
+    text-align: right;
+    padding: 10px 10px;
+}
+img{
+    height: auto;
+    border-radius: 5px;
+    display: block;
+    width: 20%;
+    float: left;
+}
+.navegador a{
+   font-size: 50 px;
+   text-decoration: none;
+   margin: 5px 10px 5px 0px;
+   color: black;
+   padding: 5px 5px;
+   vertical-align: text-top; 
+}
+a:hover{
+    background-color: gray;
+    color: black;
+    text-decoration: none;
+    margin: 5px 10px 5px 0px;
+    padding: 5px 5px;
+    box-shadow: 3px 0px 0px black;
+    vertical-align: text-top; 
+}
+.der{
+  width: 50%;
+  float: left;
+}
+.izq{
+    float:right;
+    width: 50%;
+}
+footer{
+    text-align: center;
+}
